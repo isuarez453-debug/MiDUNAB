@@ -1,0 +1,7 @@
+# Finales de línea coherentes en Windows, macOS y Linux
+* text=auto
+*.bat text eol=crlf
+*.sh text eol=lf
+*.png binary
+*.pdf binary
+*.ttf binary

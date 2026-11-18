@@ -1,0 +1,25 @@
+# Compilados
+out/
+target/
+build/
+*.class
+
+# IDE
+.idea/
+*.iml
+.vscode/
+nbproject/private/
+.settings/
+.project
+.classpath
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+
+# Archivos temporales del guardado atómico
+data/*.tmp
+nbproject/
+nbactions.xml
+nb-configuration.xml
+hs_err_pid*.log
